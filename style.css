@@ -4,7 +4,7 @@
     margin: 5px;
     padding: 5px;
     border-radius: 0 0 20px 0;
-    background-color: rgb(251, 247, 255);
+    background-color: rgb(117, 12, 223);
 }
 
 .linha-lateral{
@@ -14,5 +14,5 @@
 }
 
 .tarefa.concluido{
-    background-color: yellow;
+    background-color: rgb(208, 205, 221);
 }
